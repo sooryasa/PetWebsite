@@ -1,0 +1,16 @@
+.inline-block {
+    padding:  center;
+    display:  inline-block;
+}
+
+.left {
+    float:  left;
+    height: 500px;
+    width:  28%; 
+}
+
+.right {
+    float: right;
+    height: 500px;
+    width:  30%;
+}
